@@ -51,4 +51,4 @@ $ npm run build:prod
 
 # Result
 
-http://localhost:3000/api/greetings
+http://localhost:3000/foo?id=123
